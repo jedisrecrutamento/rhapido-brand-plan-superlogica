@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./public/logo-superlogica.svg" alt="Superlógica" height="56" />
+### Superlógica
 
 # Super Inclusão · Página de Carreiras PCD
 
